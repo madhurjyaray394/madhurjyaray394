@@ -1,8 +1,9 @@
-# 💫 About Me:
-👋 I’m a frontend-focused developer who enjoys building usable web applications.
+# 💫 About:
+👋Hi there!
+I'm [Miloy](https://madhuray.vercel.app/), a frontend-focused developer who likes building ideas into working web apps.
 
 I focus on UI and user experience, and I work across the stack when needed to get things shipped.
-
+Lets connect:
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhurjya.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhurjya-ray-93a880268) 
