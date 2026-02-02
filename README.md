@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 I’m a frontend developer who likes turning ideas into real web apps.<br><br>I mostly work on the frontend, but I’m comfortable handling the backend too when it helps get the product shipped.
+👋 I’m a frontend-focused developer who enjoys building usable web applications.
+
+I focus on UI and user experience, and I work across the stack when needed to get things shipped.
 
 
 ## 🌐 Socials:
