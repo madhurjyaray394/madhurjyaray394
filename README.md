@@ -2,8 +2,8 @@
 Hi there!
 I'm [Madhu](https://madhuray.vercel.app/), a frontend-focused developer who likes building ideas into working web apps.
 
-I focus on UI and user experience, and I work across the stack when needed to get things shipped.currently exploring AI Web Integrations...
-Lets connect:
+I focus on UI and user experience, and I work across the stack when needed to get things shipped. Currently exploring AI Web Integrations...
+Let's connect:
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhurjya.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhurjya-ray-93a880268) 
