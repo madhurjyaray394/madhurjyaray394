@@ -16,9 +16,6 @@ Let's connect:
 ![React](https://img.shields.io/badge/Library-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/CSS-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Learning-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Backend](https://img.shields.io/badge/Focus-Backend_Development-4CAF50?style=flat&logo=node.js&logoColor=white)
-
 
 💡 I work with modern frontend technologies and continuously strengthen my **TypeScript** and **backend development** skills.
 
