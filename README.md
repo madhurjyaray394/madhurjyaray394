@@ -17,7 +17,7 @@ Let's connect:
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/CSS-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-💡 I work with modern frontend technologies and continuously strengthen my **TypeScript** and **backend development** skills.
+💡 I work with modern frontend technologies and continuously learning **TypeScript** and **Backend development** skills.
 
 
 <!--
