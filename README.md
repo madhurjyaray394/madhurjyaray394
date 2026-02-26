@@ -19,7 +19,6 @@ Let's connect:
 ![TypeScript](https://img.shields.io/badge/Learning-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Backend](https://img.shields.io/badge/Focus-Backend_Development-4CAF50?style=for-the-badge&logo=node.js&logoColor=white)
 
----
 
 💡 I work with modern frontend technologies and continuously strengthen my **TypeScript** and **backend development** skills.
 
