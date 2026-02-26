@@ -10,14 +10,14 @@ Let's connect:
 
 # 🧑🏻‍💻 Tech Stack:
 
-![HTML](https://img.shields.io/badge/Markup-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/Style-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/Library-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/CSS-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Learning-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Backend](https://img.shields.io/badge/Focus-Backend_Development-4CAF50?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/Markup-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/Style-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/Library-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/CSS-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Learning-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Backend](https://img.shields.io/badge/Focus-Backend_Development-4CAF50?style=flat&logo=node.js&logoColor=white)
 
 
 💡 I work with modern frontend technologies and continuously strengthen my **TypeScript** and **backend development** skills.
