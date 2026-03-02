@@ -11,12 +11,12 @@ Let's connect:
 # 🧑🏻‍💻Stack
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="50" style="border-radius:50%; margin:6px;" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="50" style="border-radius:50%; margin:6px;" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" style="border-radius:50%; margin:6px;" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" style="border-radius:50%; margin:6px;" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="50" style="border-radius:50%; margin:6px;" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" style="border-radius:50%; margin:6px;" />
+  <img src="https://cdn.simpleicons.org/html5" width="50" style="background:#111; padding:10px; border-radius:50%; margin:6px;" />
+  <img src="https://cdn.simpleicons.org/css3" width="50" style="background:#111; padding:10px; border-radius:50%; margin:6px;" />
+  <img src="https://cdn.simpleicons.org/javascript" width="50" style="background:#111; padding:10px; border-radius:50%; margin:6px;" />
+  <img src="https://cdn.simpleicons.org/react" width="50" style="background:#111; padding:10px; border-radius:50%; margin:6px;" />
+  <img src="https://cdn.simpleicons.org/nextdotjs" width="50" style="background:#111; padding:10px; border-radius:50%; margin:6px;" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="50" style="background:#111; padding:10px; border-radius:50%; margin:6px;" />
 </p>
 
 💡 I work with modern frontend technologies and continuously learning **TypeScript** and **Backend development** skills.
