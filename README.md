@@ -8,14 +8,16 @@ Let's connect:
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhurjya.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhurjya-ray-93a880268) 
 
-# 🧑🏻‍💻 Tech Stack:
+# 🧑🏻‍💻Stack
 
-![HTML](https://img.shields.io/badge/Markup-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/Style-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/Library-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/CSS-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="50" style="border-radius:50%; margin:6px;" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="50" style="border-radius:50%; margin:6px;" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" style="border-radius:50%; margin:6px;" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" style="border-radius:50%; margin:6px;" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="50" style="border-radius:50%; margin:6px;" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" style="border-radius:50%; margin:6px;" />
+</p>
 
 💡 I work with modern frontend technologies and continuously learning **TypeScript** and **Backend development** skills.
 
