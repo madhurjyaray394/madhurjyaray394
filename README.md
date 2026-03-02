@@ -12,7 +12,7 @@ Let's connect:
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/html5" width="50" style="background:#111; padding:10px; border-radius:50%; margin:6px;" />
-  <img src="https://cdn.simpleicons.org/css3" width="50" style="background:#111; padding:10px; border-radius:50%; margin:6px;" />
+  <img src="https://cdn.simpleicons.org/css" width="50" style="background:#111; padding:10px; border-radius:50%; margin:6px;" />
   <img src="https://cdn.simpleicons.org/javascript" width="50" style="background:#111; padding:10px; border-radius:50%; margin:6px;" />
   <img src="https://cdn.simpleicons.org/react" width="50" style="background:#111; padding:10px; border-radius:50%; margin:6px;" />
   <img src="https://cdn.simpleicons.org/nextdotjs" width="50" style="background:#111; padding:10px; border-radius:50%; margin:6px;" />
