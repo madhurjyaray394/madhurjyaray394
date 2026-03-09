@@ -18,6 +18,7 @@ Let's connect:
   <img src="https://cdn.simpleicons.org/nextdotjs" width="50" style="background:#111; padding:10px; border-radius:50%; margin:6px;" />
   <img src="https://cdn.simpleicons.org/tailwindcss" width="50" style="background:#111; padding:10px; border-radius:50%; margin:6px;" />
   <img src="https://cdn.simpleicons.org/figma" width="50" style="background:#111; padding:10px; border-radius:50%; margin:6px;" />
+  <img src="https://cdn.simpleicons.org/typescript" width="50" style="background:#111; padding:10px; border-radius:50%; margin:6px;" />
 </p>
 
 💡 I work with modern frontend technologies and continuously learning **TypeScript** and **Backend development** skills.
